@@ -104,6 +104,9 @@ ul.images li {
     border-radius: 3px;
     width: 300px;
 }
+img.square_225 {
+    margin-left: 37px;
+}
 ul.images li span {
     display: block;
     margin-top: 0.5em;
